@@ -81,14 +81,14 @@ const BDS_IMOLA = {
     },
   ],
   COMPANY_DESC: {
-    NAME: "La Bodega della Scarpa",
+    NAME: "La bottega della scarpa",
     DESCRIPTION:
       "Siamo una bottega artigianale di Imola provincia di Bologna, specializzata nella riparazione e cura delle calzature. Offriamo solature, rifacimento tacchi e suole, pulizie professionali, sanificazione ad ozono e trattamenti specifici per pelle e altri materiali. Eseguiamo tinteggiature, trattamenti protettivi e pulizie con macchinari professionali per ridare nuova vita a ogni tipo di scarpa. Competenza, passione e attenzione ai dettagli sono al servizio delle tue calzature, per mantenerle belle, igienizzate e durevoli nel tempo.",
   },
   ASSETS: {
     HERO_IMAGE: "/assets/BDS_IMOLA/about/primary.png",
     LOGO: "/assets/BDS_IMOLA/about/logo.png",
-    LOGO_ALT: "La Bodega della Scarpa Logo",
+    LOGO_ALT: "La bottega della scarpa Logo",
     MISSION_IMAGE: "/assets/BDS_IMOLA/about/mission.jpeg",
     GALLERY_PATH: "/assets/BDS_IMOLA/gallery",
     EXTENSION: "jpeg",
@@ -144,7 +144,7 @@ const BDS_IMOLA = {
     ADDRESS_HEADING: "Indirizzo",
     CONTACTS_HEADING: "Contatti, Indirizzo e Social",
     SOCIAL_HEADING: "Social",
-    COPYRIGHT: "© 2026 La Bodega della Scarpa. All rights reserved.",
+    COPYRIGHT: "© 2026 La bottega della scarpa. All rights reserved.",
     ADDRESS: "Viale G. Carducci, 107, 40026, Imola BO, Italia (dentro Conad)",
     PHONE: "+39 353 479 2372",
     EMAIL: "calzolaioflorin@gmail.com",
