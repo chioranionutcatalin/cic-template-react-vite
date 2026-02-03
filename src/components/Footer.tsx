@@ -1,5 +1,5 @@
 import { CLIENTS } from "../consts";
-import { Phone, Mail, Facebook, Linkedin } from "lucide-react";
+import { Phone, Mail, Facebook } from "lucide-react";
 
 export const Footer = () => {
   const { BDS_IMOLA } = CLIENTS;
