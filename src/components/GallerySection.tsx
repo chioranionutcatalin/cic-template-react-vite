@@ -12,7 +12,7 @@ export const GallerySection = () => {
           <h2 className="text-4xl font-bold tracking-tight text-shoe-brown mb-4">
             {SECTION_TEXTS.GALLERY_HEADING}
           </h2>
-          <p className="text-stone-600 max-w-2xl mx-auto">
+          <p className="text-stone-600 body-text">
             {SECTION_TEXTS.GALLERY_DESCRIPTION}
           </p>
         </div>

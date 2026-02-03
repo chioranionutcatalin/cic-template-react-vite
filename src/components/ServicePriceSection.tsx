@@ -20,7 +20,7 @@ export const ServicePriceSection = () => {
             >
               <div className="mb-6 flex-grow flex flex-col items-center justify-center">
                 <h3 className="text-xl font-bold mb-2">{TITLE}</h3>
-                <p className="text-stone-500 text-sm h-12">{DESCRIPTION}</p>
+                <p className="text-stone-500 body-text">{DESCRIPTION}</p>
                 <div className="text-3xl font-bold mb-6 text-stone-900 mt-4">
                   {PRICE}
                 </div>

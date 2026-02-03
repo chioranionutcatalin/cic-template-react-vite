@@ -135,7 +135,7 @@ export const Carousel = () => {
         ))}
       </div>
 
-      <div className="absolute top-4 right-4 bg-black/50 text-white px-3 py-1 rounded-full text-sm z-20">
+      <div className="absolute top-4 right-4 bg-black/50 text-white px-3 py-1 rounded-full text-base sm:text-sm  z-20">
         {currentIndex + 1} / {totalImages}
       </div>
     </div>

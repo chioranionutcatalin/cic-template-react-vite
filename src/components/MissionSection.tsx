@@ -15,7 +15,7 @@ export const MissionSection = () => {
             {COMPANY_DESC.NAME}
           </h1>
 
-          <p className="text-lg text-stone-600 max-w-md leading-relaxed">
+          <p className="text-stone-600 body-text">
             {COMPANY_DESC.DESCRIPTION}
           </p>
         </div>

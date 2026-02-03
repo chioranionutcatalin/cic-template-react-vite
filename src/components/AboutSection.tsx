@@ -23,7 +23,7 @@ export const AboutSection = () => {
                     <span className="text-xl font-medium mb-2">
                       {TITLE}
                     </span>
-                    <span>{DESCRIPTION}</span>
+                    <span className="text-base sm:text-lg text-stone-600 leading-relaxed">{DESCRIPTION}</span>
                   </div>
                 ))}
               </div>

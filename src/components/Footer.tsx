@@ -19,7 +19,7 @@ export const Footer = () => {
               {HOURS_SECTION.TITLE}
             </h4>
 
-            <div className="grid grid-cols-1 sm:grid-cols-3 gap-x-8 gap-y-4 text-stone-600 text-sm">
+            <div className="grid grid-cols-1 sm:grid-cols-3 gap-x-8 gap-y-4 text-stone-600 text-base sm:text-base sm:text-sm ">
               {/* COL 1: Lunedì – Martedì */}
               <div className="space-y-4">
                 {HOURS_SECTION.DAYS.slice(0, 2).map((dayInfo, idx) => (
@@ -88,7 +88,7 @@ export const Footer = () => {
               href="https://maps.app.goo.gl/uPfjCqDuu9GwM2J98"
               target="_blank"
               rel="noopener noreferrer"
-              className="inline-flex flex-col text-sm text-stone-600 hover:text-stone-900 transition-colors"
+              className="inline-flex flex-col text-base sm:text-base sm:text-sm  text-stone-600 hover:text-stone-900 transition-colors"
             >
               <span>{FOOTER_SECTION.ADDRESS_STREET}</span>
               <span>{FOOTER_SECTION.ADDRESS_CITY_INDICATION}</span>
@@ -101,7 +101,7 @@ export const Footer = () => {
               {FOOTER_SECTION.CONTACTS_HEADING}
             </h4>
 
-            <div className="space-y-4 text-sm text-stone-600">
+            <div className="space-y-4 text-base sm:text-base sm:text-sm  text-stone-600">
               <a
                 href={`tel:${FOOTER_SECTION.PHONE}`}
                 className="flex items-center justify-center md:justify-start hover:text-stone-900"
@@ -123,7 +123,7 @@ export const Footer = () => {
                 href="https://www.facebook.com/floioarestaurocalzature"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="flex items-center justify-center md:justify-start text-sm text-stone-600 hover:text-stone-900 transition-colors"
+                className="flex items-center justify-center md:justify-start text-base sm:text-sm  text-stone-600 hover:text-stone-900 transition-colors"
               >
                 <Facebook className="h-4 w-4 mr-2" />
                Facebook · floioarestaurocalzature
@@ -140,7 +140,7 @@ export const Footer = () => {
               href="https://www.linkedin.com/in/ionut-chioran-54a25a73/"
               target="_blank"
               rel="noopener noreferrer"
-              className="flex items-center justify-center md:justify-start text-sm text-stone-600 hover:text-stone-900 transition-colors"
+              className="flex items-center justify-center md:justify-start text-base sm:text-sm  text-stone-600 hover:text-stone-900 transition-colors"
             >
               Designed By Chioran Ionut
             </a>

@@ -32,7 +32,7 @@ export const Navbar: React.FC = () => {
                 key={NAME}
                 href={HREF}
                 onClick={(e: any) => handleScroll(e, HREF)}
-                className="text-shoe-black hover:text-shoe-brown px-3 py-2 text-sm font-medium transition-colors"
+                className="text-shoe-black hover:text-shoe-brown px-3 py-2 text-base sm:text-sm  font-medium transition-colors"
               >
                 {NAME}
               </a>
@@ -57,7 +57,7 @@ export const Navbar: React.FC = () => {
               <a
                 key={NAME}
                 href={HREF}
-                className="block px-3 py-4 text-base font-medium border-b border-stone-50 last:border-0"
+                className="block px-3 py-4 text-base sm:text-base sm:text-sm  font-medium border-b border-stone-50 last:border-0"
                 onClick={(e: any) => handleScroll(e, HREF)}
               >
                 {NAME}
