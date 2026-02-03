@@ -101,7 +101,7 @@ const BDS_IMOLA = {
     SERVICES_HEADING: "Servizi e prezzi",
   },
   HOURS_SECTION: {
-  TITLE: "Orario di lavoro",
+  TITLE: "Aperti dal lunedì al sabato – domenica chiuso",
   DAYS: [
     {
       day: "Lunedì",
@@ -142,12 +142,10 @@ const BDS_IMOLA = {
 },
   FOOTER_SECTION: {
     ADDRESS_HEADING: "Indirizzo",
-    CONTACTS_HEADING: "Contatti",
+    CONTACTS_HEADING: "Contatti, Indirizzo e Social",
     SOCIAL_HEADING: "Social",
     COPYRIGHT: "© 2026 La Bodega della Scarpa. All rights reserved.",
-    ADDRESS_STREET: "Viale G. Carducci, 107, 40026",
-    ADDRESS_CITY_INDICATION:
-      "Imola BO, Italia (dentro centro commerciale Conad)",
+    ADDRESS: "Viale G. Carducci, 107, 40026, Imola BO, Italia (dentro Conad)",
     PHONE: "+39 353 479 2372",
     EMAIL: "calzolaioflorin@gmail.com",
   },
