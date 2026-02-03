@@ -71,7 +71,7 @@ export const Carousel = () => {
         <img
           key={currentIndex}
           src={`${ASSETS.GALLERY_PATH}/${currentIndex + 1}.${ASSETS.EXTENSION}`}
-          alt={`Gallery ${currentIndex + 1}`}
+          alt={`Restauro scarpe a Imola – lavoro ${currentIndex + 1}`}
           onLoad={() => setLoaded(true)}
           className={`
             max-w-full max-h-full

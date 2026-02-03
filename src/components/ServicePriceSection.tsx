@@ -12,7 +12,7 @@ export const ServicePriceSection = () => {
           </h2>
         </div>
 
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
           {ACTION_PRICES.map(({ TITLE, DESCRIPTION, PRICE }, key) => (
             <div
               key={`${key}${TITLE}`}

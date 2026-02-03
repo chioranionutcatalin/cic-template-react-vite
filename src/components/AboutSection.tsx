@@ -6,7 +6,6 @@ export const AboutSection = () => {
     
     return (
     <section
-        id="about"
         className="py-20 px-4 sm:px-6 lg:px-8 max-w-7xl mx-auto scroll-mt-20 cursor-pointer"
       >
         <div className="rounded-sm p-8 lg:p-16 overflow-hidden relative shadow-2xl">
