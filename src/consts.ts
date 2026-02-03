@@ -101,36 +101,36 @@ const BDS_IMOLA = {
     SERVICES_HEADING: "Servizi e prezzi",
   },
   HOURS_SECTION: {
-  TITLE: "Aperti dal lunedì al sabato – domenica chiuso",
+  TITLE: "Aperti dal lunedì al sabato - domenica chiuso",
   DAYS: [
     {
       day: "Lunedì",
-      morning: "08:30 – 12:30",
-      afternoon: "15:30 – 19:00",
+      morning: "08:30 - 12:30",
+      afternoon: "15:30 - 19:00",
     },
     {
       day: "Martedì",
-      morning: "08:30 – 12:30",
-      afternoon: "15:30 – 19:00",
+      morning: "08:30 - 12:30",
+      afternoon: "15:30 - 19:00",
     },
     {
       day: "Mercoledì",
-      morning: "08:30 – 12:30",
-      afternoon: "15:30 – 19:00",
+      morning: "08:30 - 12:30",
+      afternoon: "15:30 - 19:00",
     },
     {
       day: "Giovedì",
-      morning: "08:30 – 12:30",
+      morning: "08:30 - 12:30",
       afternoon: "Chiuso",
     },
     {
       day: "Venerdì",
-      morning: "08:30 – 12:30",
-      afternoon: "15:30 – 19:00",
+      morning: "08:30 - 12:30",
+      afternoon: "15:30 - 19:00",
     },
     {
       day: "Sabato",
-      morning: "08:30 – 12:30",
+      morning: "08:30 - 12:30",
       afternoon: "Chiuso",
     },
     {
